@@ -1,4 +1,4 @@
- CREATE TABLE IF NOT EXISTS vc_24(
+ CREATE TABLE IF NOT EXISTS vc_24 (
         vc_24_id SMALLINT UNSIGNED AUTO_INCREMENT,
         fecha DATE,
         indicativo VARCHAR (50),
@@ -15,15 +15,10 @@
         velmedia VARCHAR (50),
         racha VARCHAR (50),
         horaracha VARCHAR (50),
-        presMax VARCHAR (50),
-        horaPresMax VARCHAR (50), 
-        presMin VARCHAR (50),
-        horaPresMin VARCHAR (50),
         hrMedia FLOAT,
         hrMax FLOAT,
         horaHrMax VARCHAR (50),
         hrMin FLOAT,
         horaHrMin VARCHAR (50),
-        sol VARCHAR (50),
         PRIMARY KEY (vc_24_id) 
         );
