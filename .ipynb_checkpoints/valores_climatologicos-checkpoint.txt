@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS valores_climatologicos (
     valores_climatologicos_id INT AUTO_INCREMENT PRIMARY KEY,
-    fecha VARCHAR (256),
+    fecha DATE,
     altitud INT,
     tmed FLOAT,
     prec FLOAT,
