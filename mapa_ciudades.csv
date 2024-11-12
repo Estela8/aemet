@@ -1,0 +1,639 @@
+,name,latitude,longitude,country,state
+0,Güímar,28.3150189,-16.4099501,ES,Canary Islands
+1,Santa Susanna,41.6357256,2.7065933,ES,Catalonia
+2,La Roda de Andalucía,37.2003677,-4.7772857,ES,Andalusia
+3,Tarancón,40.0086075,-3.0102243,ES,Castile-La Mancha
+4,Calatayud,41.3527628,-1.6422977,ES,Aragon
+5,Portocolom,39.4260949,3.2647278,ES,Balearic Islands
+6,Xàtiva,38.9880745,-0.5199747,ES,Valencian Community
+7,Benavente,42.0032862,-5.6738595,ES,Castile and León
+8,Autilla del Pino,41.9911815,-4.6334702,ES,Castile and León
+9,Puerto de Navacerrada,40.7888846,-4.0035962,ES,Castile and León
+10,Reinosa,43.0010076,-4.1378363,ES,Cantabria
+11,Baza,37.4888637,-2.7709805,ES,Andalusia
+12,Castellfort,40.5013525,-0.1902038,ES,Valencian Community
+13,Alcañiz,41.050254,-0.1329565,ES,Aragon
+14,Don Benito,38.9540269,-5.8619466,ES,Extremadura
+15,Roquetas de Mar,36.7630203,-2.6115886,ES,Andalusia
+16,Xàbia / Jávea,38.7893804,0.1634168,ES,Valencian Community
+17,San Fernando,36.4643934,-6.198203,ES,Andalusia
+18,Cervera de Pisuerga,42.8635509,-4.4972234,ES,Castile and León
+19,Toledo,39.8560679,-4.0239568,ES,Castile-La Mancha
+20,Medina de Pomar,42.9322092,-3.4861165,ES,Castile and León
+21,Tarifa,36.0129082,-5.6050213,ES,Andalusia
+22,Castropol,43.5276581,-7.0300508,ES,Asturias
+23,Vilafranca / Villafranca del Cid,40.4270485,-0.2577628,ES,Valencian Community
+24,Fuengirola,36.5387779,-4.6233348,ES,Andalusia
+25,Santa Elena,38.3402349,-3.5398078,ES,Andalusia
+26,Llanes,43.4211205,-4.7530835,ES,Asturias
+27,Murcia,37.9923795,-1.1305431,ES,Region of Murcia
+28,Lleida,41.6147605,0.6267842,ES,Catalonia
+29,Madridejos,39.4697204,-3.5353737,ES,Castile-La Mancha
+30,Talavera de la Reina,39.9603798,-4.8311717,ES,Castile-La Mancha
+31,Bielsa,42.6335545,0.2188591,ES,Aragon
+32,Manresa,41.7288939,1.8286765,ES,Catalonia
+33,Écija,37.5406007,-5.079589,ES,Andalusia
+34,Puerto de la Cruz,28.4159024,-16.5532956,ES,Canary Islands
+35,Vejer de la Frontera,36.251937,-5.9670492,ES,Andalusia
+36,Hellín,38.5106649,-1.6995137,ES,Castile-La Mancha
+37,Arenys de Mar,41.5797031,2.5491562,ES,Catalonia
+38,Pamplona,42.8182536,-1.6440304,ES,Navarre
+39,Castro-Urdiales,43.3843347,-3.2162576,ES,Cantabria
+40,Doña Mencía,37.5545719,-4.3573672,ES,Andalusia
+41,Adra,36.748834,-3.0203617,ES,Andalusia
+42,A Pobra de Trives,42.3405898,-7.2547833,ES,Galicia
+43,O Carballiño,42.4300046,-8.0780481,ES,Galicia
+44,Calanda,40.9391772,-0.2311636,ES,Aragon
+45,Palacios de la Sierra,41.9639356,-3.1282384,ES,Castile and León
+46,Daroca,41.1133264,-1.4170637,ES,Aragon
+47,Puebla de Don Rodrigo,39.0823124,-4.6168415,ES,Castile-La Mancha
+48,Caravaca de la Cruz,38.1046979,-1.861118,ES,Region of Murcia
+49,Jaca,42.5692515,-0.549372,ES,Aragon
+50,Santander,43.4620412,-3.8099719,ES,Cantabria
+51,Somosierra,41.133207,-3.581478,ES,Community of Madrid
+52,Estepona,36.4268068,-5.1468484,ES,Andalusia
+53,Ripoll,42.1982391,2.1932496,ES,Catalonia
+54,Polinyà de Xúquer,39.1957935,-0.3698201,ES,Valencian Community
+55,Viso del Marqués,38.5217338,-3.5627159,ES,Castile-La Mancha
+56,San Vicente de la Barquera,43.38318,-4.40027,ES,Cantabria
+57,Melilla,35.2918698,-2.9409026,ES,Melilla
+58,Herrera del Duque,39.1676109,-5.0504659,ES,Extremadura
+59,Merida,38.9174665,-6.3443977,ES,Extremadura
+60,Ourense,42.3436415,-7.8674242,ES,Galicia
+61,Aragüés del Puerto,42.7066467,-0.6708726,ES,Aragon
+62,Valencia de Alcántara,39.4131571,-7.2420859,ES,Extremadura
+63,Saelices el Chico,40.6697675,-6.6334374,ES,Castile and León
+64,Cartagena,37.6019353,-0.9841152,ES,Region of Murcia
+65,Jaén,37.7728858,-3.7883289,ES,Andalusia
+66,Guadalajara,40.6326979,-3.1646067,ES,Castile-La Mancha
+67,Alájar,37.8746137,-6.6650601,ES,Andalusia
+68,Tomelloso,39.1585549,-3.0214851,ES,Castile-La Mancha
+69,Yecla,38.613652,-1.1157373,ES,Region of Murcia
+70,Talarn,42.1860349,0.8995312,ES,Catalonia
+71,O Faro da Estaca de Bares,43.7859263,-7.6840423,ES,Galicia
+72,Getafe,40.3081807,-3.7302679,ES,Community of Madrid
+73,sa Pobla,39.7699388,3.0250102,ES,Balearic Islands
+74,Ayamonte,37.215797,-7.4060169,ES,Andalusia
+75,Hinojosa del Duque,38.5004276,-5.148021,ES,Andalusia
+76,Lagunas de Somoza,42.3812542,-6.1916557,ES,Castile and León
+77,Belorado,42.4197032,-3.1917821,ES,Castile and León
+78,Castelló de la Plana,39.9860347,-0.0377354,ES,Valencian Community
+79,Punta Galea,40.53717985,-3.8960838866053726,ES,Community of Madrid
+80,Arroyo del Ojanco,38.3217918,-2.8934526,ES,Andalusia
+81,Abla,37.1416926,-2.7792318,ES,Andalusia
+82,Pontevedra,42.4318876,-8.6431592,ES,Galicia
+83,Pájara,28.3497867,-14.1080857,ES,Canary Islands
+84,Villanueva de Córdoba,38.3230235,-4.6279655,ES,Andalusia
+85,Vitigudino,41.0086675,-6.4353797,ES,Castile and León
+86,Villardeciervos,41.9419691,-6.2862828,ES,Castile and León
+87,Carrión de los Condes,42.3385404,-4.6017128,ES,Castile and León
+88,Molina de Aragón,40.8435978,-1.8879403,ES,Castile-La Mancha
+89,A Coruña,43.3709703,-8.3959425,ES,Galicia
+90,Porqueres,42.122682299999994,2.725494527830609,ES,Catalonia
+91,Xinzo de Limia,42.0637882,-7.7245498,ES,Galicia
+92,Navalmoral de la Mata,39.8928306,-5.5401199,ES,Extremadura
+93,Padrón,42.7510147,-8.6292056,ES,Galicia
+94,Sos del Rey Católico,42.4969991,-1.2150631,ES,Aragon
+95,Cádiz,36.5297438,-6.2928976,ES,Andalusia
+96,el Pinós / Pinoso,38.4021056,-1.041617,ES,Valencian Community
+97,Zumaia,43.296653,-2.2571182,ES,Autonomous Community of the Basque Country
+98,Santiago de Compostela,42.8804219,-8.5458608,ES,Galicia
+99,Sigüenza,41.0680324,-2.6405659,ES,Castile-La Mancha
+100,Colmenar Viejo,40.6587726,-3.7659722,ES,Community of Madrid
+101,la Seu d'Urgell,42.3575723,1.4560067,ES,Catalonia
+102,Morón de la Frontera,37.1215305,-5.4559583,ES,Andalusia
+103,Jerez de los Caballeros,38.3201991,-6.7713389,ES,Extremadura
+104,Antequera,37.0183652,-4.5596649,ES,Andalusia
+105,Torrox,36.760744,-3.9523663,ES,Andalusia
+106,Güeñes,43.2084755,-3.0949345,ES,Autonomous Community of the Basque Country
+107,Coria,39.9831574,-6.5366803,ES,Extremadura
+108,Águilas,37.4099628,-1.5804922,ES,Region of Murcia
+109,Zumarraga,43.0859968,-2.3140925,ES,Autonomous Community of the Basque Country
+110,Tazacorte,28.642858,-17.9326028,ES,Canary Islands
+111,Robledo de Chavela,40.5009201,-4.2380999,ES,Community of Madrid
+112,Maspalomas,27.7527731,-15.5970832,ES,Canary Islands
+113,Teruel,40.3436719,-1.1081939,ES,Aragon
+114,Lorca,37.6715679,-1.6988053,ES,Region of Murcia
+115,Cañizares,40.5186403,-2.1913136,ES,Castile-La Mancha
+116,Valdepeñas,38.7594573,-3.3847392,ES,Castile-La Mancha
+117,Porreres,39.5168891,3.0227517,ES,Balearic Islands
+118,Segovia,40.9502159,-4.1241494,ES,Castile and León
+119,Aranjuez,40.03221,-3.6039604,ES,Community of Madrid
+120,Salamanca,40.9651572,-5.6640182,ES,Castile and León
+121,San Clemente,39.4037093,-2.4274052,ES,Castile-La Mancha
+122,Oviedo,43.3604218,-5.8450534,ES,Asturias
+123,Andújar,38.0392362,-4.0505603,ES,Andalusia
+124,Grazalema,36.7583892,-5.366074,ES,Andalusia
+125,Buitrago del Lozoya,40.9953477,-3.6350501,ES,Community of Madrid
+126,Cazalla de la Sierra,37.932188,-5.7595396,ES,Andalusia
+127,Calamocha,40.9198824,-1.299434,ES,Aragon
+128,Albacete,38.9950921,-1.8559154,ES,Castile-La Mancha
+129,Chinchilla de Montearagón,38.9196837,-1.7263326,ES,Castile-La Mancha
+130,Llerena,38.2378976,-6.0149901,ES,Extremadura
+131,Aranda de Duero,41.6715067,-3.6851172,ES,Castile and León
+132,Plasencia,40.029921,-6.090168,ES,Extremadura
+133,Utiel,39.5680838,-1.2051778,ES,Valencian Community
+134,Fisterra,42.9064771,-9.263789,ES,Galicia
+135,Zamora,41.5056574,-5.7448039,ES,Castile and León
+136,San Pablo de los Montes,39.5409163,-4.3316718,ES,Castile-La Mancha
+137,Capdepera,39.7023418,3.4321679,ES,Balearic Islands
+138,Huércal-Overa,37.3895979,-1.9450652,ES,Andalusia
+139,Valladolid,41.6521328,-4.728562,ES,Castile and León
+140,Soria,41.7633842,-2.4642041,ES,Castile and León
+141,Alicante,38.3436365,-0.4881708,ES,Valencian Community
+142,Elgoibar,43.2143558,-2.4168588,ES,Autonomous Community of the Basque Country
+143,O Cabo Vilán,43.1595064,-9.2108349,ES,Galicia
+144,Cieza,43.2230443,-4.124873387159046,ES,Cantabria
+145,Ávila,40.656478,-4.7002172,ES,Castile and León
+146,Ciudad Real,38.9854201,-3.9285138,ES,Castile-La Mancha
+147,la Molina,42.3427392,1.9562059,ES,Catalonia
+148,Valencia,39.4697065,-0.3763353,ES,Valencian Community
+149,Ceuta,35.89442195,-5.355817352394269,ES,Ceuta
+150,Loja,37.1664839,-4.1496374,ES,Andalusia
+151,San Sebastián de la Gomera,28.0910382,-17.1110077,ES,Canary Islands
+152,Ponferrada,42.5454124,-6.5938719,ES,Castile and León
+153,Cuenca,40.0681156,-2.1348241,ES,Castile-La Mancha
+154,Izana,41.672584,-2.6099611,ES,Castile and León
+155,Quintanar de la Orden,39.5908125,-3.043053,ES,Castile-La Mancha
+156,El Puertu de Ḷḷeitariegos,42.9988451,-6.4185438,ES,Asturias
+157,Cáceres,39.4745175,-6.3716761,ES,Extremadura
+158,Ciutadella,40.0006767,3.8355966,ES,Balearic Islands
+159,Sineu,39.64314,3.0116111,ES,Balearic Islands
+160,Son Servera,39.6222728,3.3605983,ES,Balearic Islands
+161,Port de Pollença,39.908013,3.0827842,ES,Balearic Islands
+162,Pollença,39.8792073,3.0157098,ES,Balearic Islands
+163,Finca La Palma,36.7217253,-4.4710117,ES,Andalusia
+164,Banyalbufar,39.6874544,2.5147715,ES,Balearic Islands
+165,Manacor,39.551392,3.2382642,ES,Balearic Islands
+166,Llucmajor,39.4439046,2.840129,ES,Balearic Islands
+167,Santanyí,39.3543115,3.1294799,ES,Balearic Islands
+168,Petra,39.6134574,3.1128071,ES,Balearic Islands
+169,Artà,39.6950088,3.3506343,ES,Balearic Islands
+170,Santa Maria del Camí,39.6479453,2.7779083,ES,Balearic Islands
+171,Binissalem,39.6889279,2.8420532,ES,Balearic Islands
+172,es Mercadal,40.0075893,4.1124562,ES,Balearic Islands
+173,Yaiza,28.9380273,-13.768305959275153,ES,Canary Islands
+174,Tías,28.96232275,-13.663799108863206,ES,Canary Islands
+175,Puntagorda,28.7655011,-17.9797433,ES,Canary Islands
+176,Arure,28.1344077,-17.3195646,ES,Canary Islands
+177,La Antigua,42.1791551,-5.6899182,ES,Castile and León
+178,Lomo del Balo,28.1188395,-17.3074564,ES,Canary Islands
+179,Formentera,38.7063909,1.4335265588311943,ES,Balearic Islands
+180,Ibiza,38.974390099999994,1.4197463178515335,ES,Balearic Islands
+181,Sant Joan de Labritja,39.0761278,1.5091732,ES,Balearic Islands
+182,Hermigua,28.1629611,-17.1984917,ES,Canary Islands
+183,Tijarafe,28.7129549,-17.9568256,ES,Canary Islands
+184,Agulo,28.1881791,-17.1945669,ES,Canary Islands
+185,Sant Antoni de Portmany,38.9914471,1.3542327,ES,Balearic Islands
+186,Haría,29.1458859,-13.5001038,ES,Canary Islands
+187,Arico,28.19052695,-16.497760004636767,ES,Canary Islands
+188,La Oliva,28.6487751,-13.9225701,ES,Canary Islands
+189,Fuencaliente,38.405028,-4.3049563,ES,Castile-La Mancha
+190,Tinajo,29.066738,-13.676179,ES,Canary Islands
+191,Adeje,28.1219416,-16.7241893,ES,Canary Islands
+192,El Paso,28.6514036,-17.8799155,ES,Canary Islands
+193,San Andrés y Sauces,28.7810668,-17.793202882087616,ES,Canary Islands
+194,San Juan de la Rambla,28.35197555,-16.623953061265908,ES,Canary Islands
+195,La Graciosa,29.253779700000003,-13.506207973612284,ES,Canary Islands
+196,Balsareny,41.8631839,1.8755997,ES,Catalonia
+197,Valls,41.2835355,1.2473637,ES,Catalonia
+198,Teror,28.0590002,-15.5475653,ES,Canary Islands
+199,El Pinar de Campoamor,37.9060659,-0.7496717,ES,Valencian Community
+200,Tacoronte,28.4805316,-16.4137605,ES,Canary Islands
+201,Tejeda,27.9949917,-15.615382,ES,Canary Islands
+202,Moià,41.8130391,2.0978412,ES,Catalonia
+203,Berga,42.1011456,1.8454758,ES,Catalonia
+204,Pontons,41.4138036,1.5140429,ES,Catalonia
+205,Valverde,27.809685,-17.9151468,ES,Canary Islands
+206,Agüimes,27.9049541,-15.4445131,ES,Canary Islands
+207,La Aldea de San Nicolás,27.9827393,-15.779715,ES,Canary Islands
+208,Vega de San Mateo,28.0095796,-15.5325123,ES,Canary Islands
+209,Alforja,41.2099763,0.9750606,ES,Catalonia
+210,Vilafranca del Penedès,41.3463825,1.6995213,ES,Catalonia
+211,Tarragona,41.1172364,1.2546057,ES,Catalonia
+212,Agaete,28.1008499,-15.7023479,ES,Canary Islands
+213,Prats de Lluçanès,42.0085421,2.0298689,ES,Catalonia
+214,La Victoria de Acentejo,28.4347861,-16.4681748,ES,Canary Islands
+215,Arucas,28.1184492,-15.5232237,ES,Canary Islands
+216,San Andrés,27.7710565,-17.9558057,ES,Canary Islands
+217,Sitges,41.2366707,1.8228136,ES,Catalonia
+218,Candelaria,28.3546715,-16.3710091,ES,Canary Islands
+219,Anaga,28.5317024,-16.208779605853138,ES,Canary Islands
+220,Valleseco,28.0501609,-15.5744925,ES,Canary Islands
+221,Espolla,42.3893146,2.9994355,ES,Catalonia
+222,Amorebieta-Etxano,43.2201761,-2.7323154,ES,Autonomous Community of the Basque Country
+223,Caldes de Montbui,41.632265,2.1676442,ES,Catalonia
+224,Igualada,41.5790182,1.617346,ES,Catalonia
+225,Amurrio,43.0510034,-2.9997847,ES,Autonomous Community of the Basque Country
+226,Vilassar de Dalt,41.5163595,2.3592879,ES,Catalonia
+227,Sant Pau de Segúries,42.2633408,2.366055,ES,Catalonia
+228,Blanes,41.6756178,2.7932391,ES,Catalonia
+229,Tona,41.8538039,2.2280115,ES,Catalonia
+230,Bera,43.2813278,-1.6796472,ES,Navarre
+231,Aretxabaleta,43.0359732,-2.5036785,ES,Autonomous Community of the Basque Country
+232,Legazpi,43.051235,-2.3344403,ES,Autonomous Community of the Basque Country
+233,Campdevànol,42.2230582,2.1680717,ES,Catalonia
+234,Irun,43.3383176,-1.7888095,ES,Autonomous Community of the Basque Country
+235,Figueres,42.2666314,2.9638434,ES,Catalonia
+236,Villacarriedo,43.2306206,-3.8049489,ES,Cantabria
+237,Forua,43.3329632,-2.6761163,ES,Autonomous Community of the Basque Country
+238,Azpeitia,43.1838618,-2.2657422,ES,Autonomous Community of the Basque Country
+239,Girona,41.9793006,2.8199439,ES,Catalonia
+240,les Planes d'Hostoles,42.0565983,2.5384283,ES,Catalonia
+241,Fogars de Montclús,41.74716075,2.4394273887762976,ES,Catalonia
+242,Montserrat,39.3576494,-0.6031,ES,Valencian Community
+243,Monistrol de Montserrat,41.6105028,1.8452698,ES,Catalonia
+244,Maçanet de Cabrenys,42.3861179,2.7485579,ES,Catalonia
+245,Castelló d'Empúries,42.2591074,3.0746425,ES,Catalonia
+246,Castell d'Aro,41.8151092,3.0310571,ES,Catalonia
+247,Sant Hilari Sacalm,41.8780822,2.5131751,ES,Catalonia
+248,Sant Julià de Vilatorta,41.9219404,2.3240651,ES,Catalonia
+249,Ramales de la Victoria,43.257411,-3.4646482,ES,Cantabria
+250,la Vall de Bianya,42.24152075,2.4326305390037266,ES,Catalonia
+251,EMD l'Estartit,42.0512172,3.1990824,ES,Catalonia
+252,Planoles,42.3148273,2.1029743,ES,Catalonia
+253,Segura,43.0090019,-2.2530011,ES,Autonomous Community of the Basque Country
+254,Balmaseda,43.1940413,-3.1945492,ES,Autonomous Community of the Basque Country
+255,Areso,43.0809215,-1.9510898,ES,Navarre
+256,Mutriku,43.3071181,-2.3871098,ES,Autonomous Community of the Basque Country
+257,Ordizia,43.0539687,-2.1795046,ES,Autonomous Community of the Basque Country
+258,Elgeta,43.1367656,-2.4874683,ES,Autonomous Community of the Basque Country
+259,San Felices de Buelna,43.26630875,-4.030329207737704,ES,Cantabria
+260,Sopuerta,43.25481955,-3.170368427909917,ES,Autonomous Community of the Basque Country
+261,Ferrol,43.4846862,-8.233162,ES,Galicia
+262,Vilagarcía de Arousa,42.5947625,-8.7669178,ES,Galicia
+263,Villablino,42.9388713,-6.3183421,ES,Castile and León
+264,Becerreá,42.8544959,-7.1616043,ES,Galicia
+265,Mazaricos,42.9364002,-8.9904506,ES,Galicia
+266,Vega de Espinareda,42.7265754,-6.6544374,ES,Castile and León
+267,O Páramo,42.84463,-7.4989815,ES,Galicia
+268,Ribadeo,43.5361589,-7.0436775,ES,Galicia
+269,Vilagarcía de Arousa,42.5947625,-8.7669178,ES,Galicia
+270,Degaña,42.9406475,-6.5712537,ES,Asturias
+271,Chandrexa de Queixa,42.259279899999996,-7.377615472322706,ES,Galicia
+272,Sobrado,43.0404996,-8.02238,ES,Galicia
+273,A Estrada,42.6880102,-8.4907139,ES,Galicia
+274,Silleda,42.697981,-8.2466373,ES,Galicia
+275,Vigo,42.2376602,-8.7247205,ES,Galicia
+276,Cabrales,43.2678898,-4.8266084018751805,ES,Asturias
+277,O Barco de Valdeorras,42.416462,-6.9843044,ES,Galicia
+278,Vimianzo,43.1102989,-9.0327488,ES,Galicia
+279,Burela,43.6606329,-7.3587521,ES,Galicia
+280,Noia,42.7850763,-8.8877375,ES,Galicia
+281,A Lama,42.3979831,-8.4412033,ES,Galicia
+282,Tresviso,43.25713,-4.66813,ES,Cantabria
+283,Pola de Somiedo / La Pola,43.0931497,-6.2572508,ES,Asturias
+284,Cervantes,42.82700645,-6.961766504918908,ES,Galicia
+285,Colunga,43.4851194,-5.2706728,ES,Asturias
+286,Lugo,43.0118437,-7.5565749,ES,Galicia
+287,As Pontes de García Rodríguez,43.4502183,-7.853109,ES,Galicia
+288,Monterroso,42.7918646,-7.8357837,ES,Galicia
+289,Boiro,42.6462941,-8.8858718,ES,Galicia
+290,Mondoñedo,43.4296687,-7.3638814,ES,Galicia
+291,Pedraza,41.1314254,-3.8111166,ES,Castile and León
+292,Gotarrendura,40.8264524,-4.7409463,ES,Castile and León
+293,Monforte de Lemos,42.5236693,-7.5096951,ES,Galicia
+294,Morón de Almazán,41.414252,-2.4127325,ES,Castile and León
+295,Palencia,42.0108856,-4.5328735,ES,Castile and León
+296,Ucero,41.717188,-3.0512695,ES,Castile and León
+297,Ribadavia,42.2880044,-8.1429521,ES,Galicia
+298,Villaeles de Valdavia,42.5659809,-4.5838316,ES,Castile and León
+299,Migueláñez,41.1217211,-4.3642121,ES,Castile and León
+300,Coruña del Conde,41.7657004,-3.3905895,ES,Castile and León
+301,O Rosal,41.936991,-8.8370358,ES,Galicia
+302,A Cañiza,42.2136529,-8.2740414,ES,Galicia
+303,Pedrosa del Príncipe,42.2496567,-4.1992265,ES,Castile and León
+304,Allariz,42.1893161,-7.8019484,ES,Galicia
+305,Lubia,41.6506282,-2.5063989,ES,Castile and León
+306,Fresno de Cantespino,41.3685037,-3.4992092,ES,Castile and León
+307,Muíños,41.9543796,-7.9847551,ES,Galicia
+308,Cuéllar,41.3997643,-4.3150702,ES,Castile and León
+309,Arévalo,41.0632758,-4.7198921,ES,Castile and León
+310,San Rafael,40.7151766,-4.1923571,ES,Castile and León
+311,La Riba de Escalote,41.3522649,-2.796383,ES,Castile and León
+312,Ólvega,41.779562,-1.9843627,ES,Castile and León
+313,Beariz,42.4661998,-8.2707274,ES,Galicia
+314,Villamayor de los Montes,42.1059603,-3.76587,ES,Castile and León
+315,Peñafiel,41.5975136,-4.1227931,ES,Castile and León
+316,Folgoso do Courel,42.5882486,-7.1925449,ES,Galicia
+317,Villadiego,42.5147918,-4.0107323,ES,Castile and León
+318,Burgo de Osma-Ciudad de Osma,41.5868712,-3.0674254,ES,Castile and León
+319,Sardón de Duero,41.6085193,-4.4339323,ES,Castile and León
+320,Monterrubio de la Demanda,42.1491104,-3.1131226,ES,Castile and León
+321,Muñotello,40.5418131,-5.0414952,ES,Castile and León
+322,Aguilar de Campoo,42.7928369,-4.2605438,ES,Castile and León
+323,Aldeanueva de la Serrezuela,41.4603172,-3.7796605,ES,Castile and León
+324,Liceras,41.3797605,-3.2438097,ES,Castile and León
+325,Fresno de Sayago,41.3184207,-5.9708098,ES,Castile and León
+326,El Maíllo,40.5659979,-6.1801033,ES,Castile and León
+327,Riaño,42.9756044,-5.0056656,ES,Castile and León
+328,Verín,41.9406091,-7.4406032,ES,Galicia
+329,Valencia de Don Juan,42.2936047,-5.5188832,ES,Castile and León
+330,Pedrosillo de los Aires,40.7149387,-5.7050775,ES,Castile and León
+331,Fuente el Sol,41.1763482,-4.9346829,ES,Castile and León
+332,Villafáfila,41.8462843,-5.6146804,ES,Castile and León
+333,Bustillo del Páramo,42.4413416,-5.7915737,ES,Castile and León
+334,Zaorejas,40.7621748,-2.2017394,ES,Castile-La Mancha
+335,Pozuelo de Tábara,41.7850818,-5.8949829,ES,Castile and León
+336,El Barco de Ávila,40.3577409,-5.5231241,ES,Castile and León
+337,Pedraza de Alba,40.7562378,-5.373362,ES,Castile and León
+338,Cubillas de Rueda,42.6558903,-5.1756683,ES,Castile and León
+339,Alcañices,41.6996962,-6.3471637,ES,Castile and León
+340,Villarino de los Aires,41.2702654,-6.4681957,ES,Castile and León
+341,Rueda,41.4129785,-4.9597533,ES,Castile and León
+342,Bañobárez,40.8493325,-6.6127882,ES,Castile and León
+343,Rivilla de Barajas,40.9019309,-4.9882631,ES,Castile and León
+344,Navasfrías,40.2959784,-6.8192419,ES,Castile and León
+345,Medina de Rioseco,41.8836792,-5.0433596,ES,Castile and León
+346,Pastrana,40.4178968,-2.9225859,ES,Castile-La Mancha
+347,Barbadillo,40.932821,-5.881979,ES,Castile and León
+348,Fuentesaúco,41.2306008,-5.4964931,ES,Castile and León
+349,Peñausende,41.2873276,-5.8667465,ES,Castile and León
+350,A Gudiña,42.0605483,-7.1403516,ES,Galicia
+351,Ocaña,39.9586665,-3.5007717,ES,Castile-La Mancha
+352,Villalón de Campos,42.0984494,-5.0347132,ES,Castile and León
+353,Santibáñez de Vidriales,42.0735273,-6.0150542,ES,Castile and León
+354,Villadepera,41.5484196,-6.131714,ES,Castile and León
+355,Astorga,42.4553555,-6.0529025,ES,Castile and León
+356,Beteta,40.572657,-2.0759798,ES,Castile-La Mancha
+357,Coreses,41.5485022,-5.6208725,ES,Castile and León
+358,Valdemorillo,40.5016772,-4.0688878,ES,Community of Madrid
+359,Brihuega,40.7592489,-2.8703477,ES,Castile-La Mancha
+360,Hoyos,40.1707784,-6.7212412,ES,Extremadura
+361,Pozuelo de Alarcón,40.4346528,-3.814834,ES,Community of Madrid
+362,San Sebastián de los Reyes,40.5473698,-3.6260586,ES,Community of Madrid
+363,Navalvillar de Ibor,39.5849648,-5.4130536,ES,Extremadura
+364,Brozas,39.6111187,-6.7782723,ES,Extremadura
+365,Castillo de Bayuela,40.0998825,-4.6851982,ES,Castile-La Mancha
+366,Tembleque,39.6970824,-3.5020102,ES,Castile-La Mancha
+367,Arganda del Rey,40.3007708,-3.4380688,ES,Community of Madrid
+368,Navahermosa,39.6334281,-4.4691896,ES,Castile-La Mancha
+369,Alpedrete,40.6599005,-4.0251223,ES,Community of Madrid
+370,Cebreros,40.4551504,-4.4651595,ES,Castile and León
+371,Mora,39.683248,-3.7729231,ES,Castile-La Mancha
+372,Tielmes,40.2465011,-3.3136206,ES,Community of Madrid
+373,Valverde del Fresno,40.2241479,-6.8781742,ES,Extremadura
+374,Guijo de Granadilla,40.1937514,-6.163317,ES,Extremadura
+375,Cañaveral,39.7897226,-6.3933113,ES,Extremadura
+376,Pantano de El Vado,41.0012738,-3.2972761,ES,Castile-La Mancha
+377,Garganta la Olla,40.1112953,-5.7760724,ES,Extremadura
+378,Candeleda,40.1557248,-5.2409617,ES,Castile and León
+379,Alcalá de Henares,40.4818396,-3.3644973,ES,Community of Madrid
+380,Aliseda,39.4224611,-6.6918971,ES,Extremadura
+381,Piornal,40.1177645,-5.8485639,ES,Extremadura
+382,Trujillo,39.4605657,-5.8816626,ES,Extremadura
+383,Torrecilla de los Ángeles,40.2480674,-6.4183979,ES,Extremadura
+384,Rascafría,40.9038871,-3.8802853,ES,Community of Madrid
+385,Hervás,40.2738554,-5.8587431,ES,Extremadura
+386,Serradilla,39.8294906,-6.1399404,ES,Extremadura
+387,Rozas de Puerto Real,40.3098351,-4.4912111,ES,Community of Madrid
+388,Madrigal de la Vera,40.1466193,-5.3673231,ES,Extremadura
+389,Zarza la Mayor,39.87819065,-6.861739797362906,ES,Extremadura
+390,Oropesa,39.9175002,-5.1747285,ES,Castile-La Mancha
+391,Nuñomoral,40.4091367,-6.2445107,ES,Extremadura
+392,Mandayona,40.9565572,-2.7497263,ES,Castile-La Mancha
+393,Montehermoso,40.0883757,-6.3495966,ES,Extremadura
+394,Jaraicejo,39.6669756,-5.8135394,ES,Extremadura
+395,Tornavacas,40.2556866,-5.6885137,ES,Extremadura
+396,Fregenal de la Sierra,38.1663968,-6.6525749,ES,Extremadura
+397,Zorita,39.2841602,-5.6989098,ES,Extremadura
+398,Alcázar de San Juan,39.3899806,-3.2101376,ES,Castile-La Mancha
+399,Villarrobledo,39.2681742,-2.6042132,ES,Castile-La Mancha
+400,Monesterio,38.0876314,-6.2732538,ES,Extremadura
+401,Belmonte,39.5592831,-2.7038117,ES,Castile-La Mancha
+402,Alcuéscar,39.1801212,-6.2284451,ES,Extremadura
+403,Alconchel,38.5167174,-7.0709841,ES,Extremadura
+404,Alcázar del Rey,40.0624404,-2.8073809,ES,Castile-La Mancha
+405,El Robledo,39.2176173,-4.2811191,ES,Castile-La Mancha
+406,Castuera,38.7217584,-5.5472366,ES,Extremadura
+407,Puerto Rey,39.4473499,-5.020446,ES,Castile-La Mancha
+408,Olivenza,38.6196766,-7.1341344109916776,ES,Extremadura
+409,Zafra,38.4253489,-6.4193627,ES,Extremadura
+410,Badajoz,38.88964355,-6.980142450723942,ES,Extremadura
+411,Villanueva de los Infantes,41.7032195,-4.4831772,ES,Castile and León
+412,Almadén,38.7742489,-4.832835,ES,Castile-La Mancha
+413,Guadalupe,39.4520332,-5.3273801,ES,Extremadura
+414,Villares del Saz,39.8405925,-2.5052703,ES,Castile-La Mancha
+415,Peraleda del Zaucejo,38.4741788,-5.5645445,ES,Extremadura
+416,Barcarrota,38.5159459,-6.8492865,ES,Extremadura
+417,Navalvillar de Pela,39.0916315,-5.4681268,ES,Extremadura
+418,Abenójar,38.8794942,-4.3557024,ES,Castile-La Mancha
+419,Alburquerque,39.2190169,-6.9999295,ES,Extremadura
+420,Ossa de Montiel,38.9625266,-2.7453748,ES,Castile-La Mancha
+421,Valsequillo,38.4049294,-5.3517078,ES,Andalusia
+422,Cañamero,39.3801055,-5.3892464,ES,Extremadura
+423,Villafranca de los Barros,38.5613352,-6.3392388,ES,Extremadura
+424,Aroche,37.9436167,-6.9539589,ES,Andalusia
+425,Osa de la Vega,39.6611803,-2.7600609,ES,Castile-La Mancha
+426,Villanueva del Fresno,38.3753938,-7.1656367,ES,Extremadura
+427,Abia de la Obispalía,40.0186019,-2.394852,ES,Castile-La Mancha
+428,Puebla de Obando,39.1768491,-6.6260009,ES,Extremadura
+429,Fuente de Cantos,38.2461377,-6.3074274,ES,Extremadura
+430,La Alberca de Záncara,39.5142257,-2.4924704,ES,Castile-La Mancha
+431,Munera,39.0417625,-2.4800931,ES,Castile-La Mancha
+432,Almendralejo,38.6846791,-6.4067802,ES,Extremadura
+433,Lora de Estepa,37.2687903,-4.8271052,ES,Andalusia
+434,Carmona,37.4717882,-5.641291,ES,Andalusia
+435,Torres,37.7846518,-3.5081897,ES,Andalusia
+436,Espiel,38.1885533,-5.0189717,ES,Andalusia
+437,Montoro,38.0215633,-4.3827296,ES,Andalusia
+438,La Rambla,37.6061688,-4.7398851,ES,Andalusia
+439,El Campillo,41.2578168,-5.0146988,ES,Castile and León
+440,Baeza,37.9945171,-3.4708163,ES,Andalusia
+441,Valverde del Camino,37.5739612,-6.7543559,ES,Andalusia
+442,Cardeña,38.2703085,-4.3227324,ES,Andalusia
+443,Víznar,37.2312071,-3.5539201,ES,Andalusia
+444,Cartaya,37.2829111,-7.1545752,ES,Andalusia
+445,Azuaga,38.2592148,-5.6768563,ES,Extremadura
+446,Dólar,37.178181,-2.9913966,ES,Andalusia
+447,Puertollano,38.6852161,-4.1111749,ES,Castile-La Mancha
+448,El Granado,37.5207224,-7.4164124,ES,Andalusia
+449,Benamejí,37.2671843,-4.540364,ES,Andalusia
+450,Alcalá la Real,37.4619794,-3.922384,ES,Andalusia
+451,Linares,38.0928249,-3.6343581,ES,Andalusia
+452,Cazorla,37.9128927,-3.0038873,ES,Andalusia
+453,Bailén,38.096787,-3.7765601,ES,Andalusia
+454,Fuente Palmera,37.7034749,-5.1034327,ES,Andalusia
+455,Fuentes de Andalucía,37.4645318,-5.3443621,ES,Andalusia
+456,Priego de Córdoba,37.4384292,-4.1980422,ES,Andalusia
+457,Villarrasa,37.3880086,-6.6054262,ES,Andalusia
+458,Villanueva del Arzobispo,38.1687701,-3.0076576,ES,Andalusia
+459,La Puebla de los Infantes,37.7807467,-5.3893743,ES,Andalusia
+460,El Cerro de Andévalo,37.7334975,-6.9384854,ES,Andalusia
+461,Aguilar de la Frontera,37.5146967,-4.6567166,ES,Andalusia
+462,Coín,36.6600506,-4.7565615,ES,Andalusia
+463,Cortes de la Frontera,36.6170845,-5.3426714,ES,Andalusia
+464,Torremolinos,36.6242841,-4.4995448,ES,Andalusia
+465,Benahavís,36.5222736,-5.0441068,ES,Andalusia
+466,Válor,36.9961661,-3.0809964,ES,Andalusia
+467,Lanjarón,36.9181138,-3.4801561,ES,Andalusia
+468,Algarrobo,36.7732439,-4.0399307,ES,Andalusia
+469,Málaga,36.7213028,-4.4216366,ES,Andalusia
+470,Jimena de la Frontera,36.4327335,-5.4527477,ES,Andalusia
+471,Guadalcanal,38.0928826,-5.8176004,ES,Andalusia
+472,Las Cabezas de San Juan,36.9806706,-5.9406692,ES,Andalusia
+473,Nerja,36.7468565,-3.8790164,ES,Andalusia
+474,Almonte,37.2611686,-6.5175751,ES,Andalusia
+475,Olvera,36.9342358,-5.258998,ES,Andalusia
+476,Chipiona,36.7355451,-6.4348221,ES,Andalusia
+477,San Roque,36.2096267,-5.3844546,ES,Andalusia
+478,Alpandeire,36.6343447,-5.2028942,ES,Andalusia
+479,Álora,36.8238814,-4.7063011,ES,Andalusia
+480,Cala,37.9719249,-6.3168307,ES,Andalusia
+481,Rincón de la Victoria,36.7162109,-4.2793767,ES,Andalusia
+482,Almadén de la Plata,37.8736407,-6.0804954,ES,Andalusia
+483,San José del Valle,36.6062584,-5.7997029,ES,Andalusia
+484,Manilva,36.3769979,-5.2489786,ES,Andalusia
+485,Carrión de los Céspedes,37.368131,-6.32942,ES,Andalusia
+486,Barbate,36.1923983,-5.9192837,ES,Andalusia
+487,Medina Sidonia,36.4576714,-5.9272725,ES,Andalusia
+488,Salobreña,36.7463725,-3.587332,ES,Andalusia
+489,El Bosque,36.757294,-5.5067224,ES,Andalusia
+490,Castell de Ferro,36.7224798,-3.3591422,ES,Andalusia
+491,Marbella,36.508976,-4.88562,ES,Andalusia
+492,Osuna,37.2373532,-5.1033306,ES,Andalusia
+493,Nerpio,38.1482489,-2.3014306,ES,Castile-La Mancha
+494,Carboneras,36.9968699,-1.8946552,ES,Andalusia
+495,Yeste,38.3669265,-2.3190394,ES,Castile-La Mancha
+496,Láujar de Andarax,36.9939431,-2.8898117,ES,Andalusia
+497,Torre Pacheco,37.743133,-0.9539015,ES,Region of Murcia
+498,Fuente de Piedra,37.13528,-4.7298858,ES,Andalusia
+499,Fuente Álamo de Murcia,37.7226135,-1.1722273,ES,Region of Murcia
+500,Albox,37.3880282,-2.1455544,ES,Andalusia
+501,El Ejido,36.7753425,-2.8168228,ES,Andalusia
+502,Cabo de Gata,36.7811435,-2.2421768,ES,Andalusia
+503,Abanilla,38.2053567,-1.0408321,ES,Region of Murcia
+504,Totana,37.7710024,-1.5001618,ES,Region of Murcia
+505,Calasparra,38.2309457,-1.7000042,ES,Region of Murcia
+506,Alhama de Murcia,37.8515145,-1.4251045,ES,Region of Murcia
+507,Villena,38.6360967,-0.8659745,ES,Valencian Community
+508,Orihuela,38.0856891,-0.9448805,ES,Valencian Community
+509,Mula,38.0418669,-1.4906872,ES,Region of Murcia
+510,Molina de Segura,38.0580379,-1.206233,ES,Region of Murcia
+511,Novelda,38.3842144,-0.7674146,ES,Valencian Community
+512,Archena,38.1178119,-1.3025236,ES,Region of Murcia
+513,Rojales,38.0871747,-0.7228213,ES,Valencian Community
+514,Fontanars dels Alforins,38.78302,-0.7853353,ES,Valencian Community
+515,Moratalla,38.1884392,-1.8909344,ES,Region of Murcia
+516,Puerto Lumbreras,37.5635045,-1.8076233,ES,Region of Murcia
+517,Jumilla,38.4735408,-1.3285417,ES,Region of Murcia
+518,Tobarra,38.5942761,-1.6886456,ES,Castile-La Mancha
+519,Bullas,38.0497852,-1.6703391,ES,Region of Murcia
+520,Elx / Elche,38.2653307,-0.6988391,ES,Valencian Community
+521,Bicorp,39.1323971,-0.7877353,ES,Valencian Community
+522,Jabaloyas,40.240197,-1.4075138,ES,Aragon
+523,Carcaixent,39.1209651,-0.4472814,ES,Valencian Community
+524,Albarracín,40.4072825,-1.4442792,ES,Aragon
+525,Mira,39.7210593,-1.4395226,ES,Castile-La Mancha
+526,Ademuz,40.0632676,-1.2862304,ES,Valencian Community
+527,Turís,39.389881,-0.7104813,ES,Valencian Community
+528,Alcoi / Alcoy,38.6982275,-0.4747767,ES,Valencian Community
+529,Jalance,39.1909885,-1.0772386,ES,Valencian Community
+530,Chelva,39.7486658,-0.9976861,ES,Valencian Community
+531,Ontinyent,38.8208523,-0.6099929,ES,Valencian Community
+532,Pego,38.8421876,-0.1178782,ES,Valencian Community
+533,Barx,39.0148124,-0.302021,ES,Valencian Community
+534,Miramar,38.9505154,-0.1415109,ES,Valencian Community
+535,Zarra,39.091467,-1.0751647,ES,Valencian Community
+536,Benidorm,38.5406255,-0.1290929,ES,Valencian Community
+537,Salvacañete,40.0984878,-1.5020884,ES,Castile-La Mancha
+538,Almansa,38.8682065,-1.0978627,ES,Castile-La Mancha
+539,Motilla del Palancar,39.5629507,-1.9122236,ES,Castile-La Mancha
+540,Atzeneta del Maestrat,40.2166007,-0.1709719,ES,Valencian Community
+541,Sagunto,39.6792916,-0.2786451,ES,Valencian Community
+542,Llíria,39.6251478,-0.5952749,ES,Valencian Community
+543,Haro,42.5768922,-2.8466768,ES,Rioja
+544,Santa Gadea de Alfoz,42.9559407,-3.9514399,ES,Castile and León
+545,Cedrillas,40.436033,-0.8528742,ES,Aragon
+546,Sargentes de la Lora,42.7689435,-3.8721491,ES,Castile and León
+547,Torreblanca,40.2202661,0.1953363,ES,Valencian Community
+548,Mosqueruela,40.3615312,-0.4492901,ES,Aragon
+549,Briviesca,42.549796,-3.3218059,ES,Castile and León
+550,Miranda de Ebro,42.6855632,-2.9478451,ES,Castile and León
+551,Montanejos,40.068152,-0.522929,ES,Valencian Community
+552,Lalastra,42.8758814,-3.229937,ES,Autonomous Community of the Basque Country
+553,Segorbe,39.8519011,-0.4895537,ES,Valencian Community
+554,Isaba/Izaba,42.8612067,-0.9232001,ES,Navarre
+555,Cenicero,42.4813371,-2.6420483,ES,Rioja
+556,Oroz-Betelu/Orotz-Betelu,42.8955387,-1.3037633,ES,Navarre
+557,Los Arcos,42.5697418,-2.1923085,ES,Navarre
+558,Orreaga/Roncesvalles,43.0091669,-1.3201731,ES,Navarre
+559,Nájera,42.416745,-2.7336874,ES,Rioja
+560,Olite/Erriberri,42.4813623,-1.6512224,ES,Navarre
+561,Enciso,42.1487237,-2.2689829,ES,Rioja
+562,Canfranc,42.7166903,-0.5252186,ES,Aragon
+563,Campezo/Kanpezu,42.6691469,-2.3520513,ES,Autonomous Community of the Basque Country
+564,Cáseda,42.5242929,-1.3674903,ES,Navarre
+565,Leza,42.5655553,-2.6342866,ES,Autonomous Community of the Basque Country
+566,Navascués/Nabaskoze,42.7189622,-1.1162375,ES,Navarre
+567,Labastida/Bastida,42.5903817,-2.7928698,ES,Autonomous Community of the Basque Country
+568,Tudela,42.063972,-1.6053391,ES,Navarre
+569,Larraga,42.5580517,-1.8500707,ES,Navarre
+570,La Almunia de Doña Godina,41.4777846,-1.3732802,ES,Aragon
+571,Santa Eulalia,40.5689033,-1.3144106,ES,Aragon
+572,Tarazona,41.9065093,-1.7216461,ES,Aragon
+573,Fonfría,41.6361335,-6.1394852,ES,Castile and León
+574,Castejón de Valdejasa,41.9823399,-0.9942228,ES,Aragon
+575,Monreal/Elo,42.7048477,-1.5072472,ES,Navarre
+576,San Pedro Manrique,42.029187,-2.229759,ES,Castile and León
+577,Ejea de los Caballeros,42.1264653,-1.1382958,ES,Aragon
+578,Alhama de Aragón,41.2965036,-1.8949513,ES,Aragon
+579,Almazul,41.5746727,-2.1458688,ES,Castile and León
+580,Irurtzun,42.9184675,-1.8286391,ES,Navarre
+581,Monteagudo,41.9620037,-1.6939437,ES,Navarre
+582,Arcos de Jalón,41.2157666,-2.2753018,ES,Castile and León
+583,El Pedregal,40.7795239,-1.5708608,ES,Castile-La Mancha
+584,Morella,40.6188277,-0.0998026,ES,Valencian Community
+585,Quinto,41.4248588,-0.4976071,ES,Aragon
+586,Almudévar,42.0427209,-0.5808273,ES,Aragon
+587,Esterri d'Àneu,42.6274685,1.1228821,ES,Catalonia
+588,Valmadrid,41.4434021,-0.8844837,ES,Aragon
+589,Martinet,42.3604819,1.6943895,ES,Catalonia
+590,Coll de Nargó,42.1739087,1.3161338,ES,Catalonia
+591,Montalbán,40.8324095,-0.7994195,ES,Aragon
+592,Leciñena,41.7990634,-0.6114256,ES,Aragon
+593,Torà,41.8120807,1.4037146,ES,Catalonia
+594,Tuixent,42.2312502,1.5659834,ES,Catalonia
+595,Híjar,41.1747377,-0.4515985,ES,Aragon
+596,Sabiñánigo,42.518364,-0.3647899,ES,Aragon
+597,Castellote,40.7996276,-0.3197027,ES,Aragon
+598,Artesa de Segre,41.8962914,1.0471121,ES,Catalonia
+599,Muniesa,41.0315677,-0.8099565,ES,Aragon
+600,el Soleràs,41.4134942,0.6819598,ES,Catalonia
+601,la Pobla de Cérvoles,41.3674223,0.9157069,ES,Catalonia
+602,Torla-Ordesa,42.6276936,-0.112138,ES,Aragon
+603,la Torre de Cabdella,42.4223351,0.9821933,ES,Catalonia
+604,Seira,42.4774053,0.4334047,ES,Aragon
+605,Llimiana,42.0750605,0.91585,ES,Catalonia
+606,Llorac,41.5561484,1.3071491,ES,Catalonia
+607,la Vall de Boí,42.5428062,0.867563082949543,ES,Catalonia
+608,Benasque,42.6052663,0.5237318,ES,Aragon
+609,els Torms,41.3949661,0.7194703,ES,Catalonia
+610,Os de Balaguer,41.8713099,0.7193399,ES,Catalonia
+611,Mollerussa,41.6330928,0.895495,ES,Catalonia
+612,Benabarre / Benavarri,42.1063097,0.4818841,ES,Aragon
+613,Sopeira,42.3172402,0.7469658,ES,Aragon
+614,la Pobla de Massaluca,41.1815773,0.3538282,ES,Catalonia
+615,Lanaja,41.7730487,-0.3260224,ES,Aragon
+616,Ballobar,41.620467,0.1919892,ES,Aragon
+617,Bossòst,42.7859893,0.69312,ES,Catalonia
+618,Fraga,41.5210138,0.3515596,ES,Aragon
+619,Cabacés,41.2470037,0.7331063,ES,Catalonia
+620,Bello,40.9217017,-1.4987972,ES,Aragon
+621,Sariñena,41.7933952,-0.1574134,ES,Aragon
+622,Huesca,42.1382539,-0.4080901,ES,Aragon
+623,Barbastro,42.0366952,0.127238,ES,Aragon
+624,Valderrobres / Vall de Roures,40.836143199999995,0.12093826722762696,ES,Aragon
+625,Horta de Sant Joan,40.9554904,0.315402,ES,Catalonia
+626,Rasquera,41.003625,0.5988478,ES,Catalonia
+627,Luzaide,43.0926454,-1.3017388,ES,Navarre
+628,Torrejón de Ardoz,40.4587767,-3.4793343,ES,Community of Madrid
+629,Santa Cruz de Tenerife,28.467178,-16.2507843,ES,Canary Islands
+630,Gaucín,36.5192377,-5.3177544,ES,Andalusia
+631,Sotillo de la Adrada,40.2920324,-4.5826532,ES,Castile and León
+632,Villarrodrigo,38.4872582,-2.6363672,ES,Andalusia
+633,Oliva,38.9202443,-0.1208981,ES,Valencian Community
+634,Vélez-Málaga,36.7818354,-4.0988099,ES,Andalusia
+635,Retamal de Llerena,38.5774119,-5.8389958,ES,Extremadura
+636,San Roque de Riomiera,43.2191046,-3.720078851403587,ES,Cantabria
+637,Huéscar,37.8086268,-2.5398775,ES,Andalusia
