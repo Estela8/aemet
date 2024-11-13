@@ -18,9 +18,9 @@ CREATE TABLE IF NOT EXISTS valores_climatologicos (
     hrMin FLOAT,
     horaHrMin TIME,
     indicativo_id INT,
-    nombre_id INT,
+    ciudad_id INT,
     provincia_id INT,
     FOREIGN KEY (indicativo_id) REFERENCES indicativos(indicativo_id),
-    FOREIGN KEY (nombre_id) REFERENCES ciudades(ciudad_id),
+    FOREIGN KEY (ciudad_id) REFERENCES ciudades(ciudad_id),
     FOREIGN KEY (provincia_id) REFERENCES provincias(provincia_id)
 );
